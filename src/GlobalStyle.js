@@ -6,7 +6,6 @@ const GlobalStyle = createGlobalStyle`
 
   html {
     font-size : 10px;
-    background-color :#f7f7f7;
   }
 
   body {
